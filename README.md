@@ -1,4 +1,4 @@
-# simple-slurm-exporter
+# simple-slurm-json-exporter
 Exposes JSON output of Slurm commands via basic HTTP server for scraping.
 
 There are several good Slurm Prometheus exporters already out there. However, I needed more generic data returned that were not necessarily counters.
